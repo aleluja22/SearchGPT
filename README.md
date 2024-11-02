@@ -1,5 +1,5 @@
-SearchGPT: GPT Enhanced with Real-Time Web Browsing
-===================================================
+SearchGPT: GPT with Real-Time Web Browsing
+==========================================
 
 Languages / 语言: [English](https://github.com/Wilson-ZheLin/SearchGPT) | [中文](https://github.com/Wilson-ZheLin/SearchGPT/blob/main/README_CN.md)
 
