@@ -1,13 +1,13 @@
-GPT-4 Enhanced with Real-Time Web Browsing
-==========================================
+SearchGPT: GPT Enhanced with Real-Time Web Browsing
+===================================================
 
-Languages / 语言: [English](https://github.com/Wilson-ZheLin/GPT-4-Web-Browsing) | [中文](https://github.com/Wilson-ZheLin/GPT-4-Web-Browsing/blob/main/README_CN.md)
+Languages / 语言: [English](https://github.com/Wilson-ZheLin/SearchGPT) | [中文](https://github.com/Wilson-ZheLin/SearchGPT/blob/main/README_CN.md)
 
-GPT-4's extensive knowledge base covers a wide range of topics but is limited to historical data. To address this, we've integrated web browsing into GPT-4, connecting its advanced language processing to the internet. 🔗
+GPT's extensive knowledge base covers a wide range of topics but is limited to historical data. To address this, we've integrated web browsing into GPT, connecting its advanced language processing to the internet. 🔗
 
-This upgrade enables access to the latest information, enhancing the model's relevance and efficiency in real-time data retrieval, and is much faster than web-browsing on the GPT web page.
+This upgrade enables access to the latest information, enhancing the model's relevance and efficiency in real-time data retrieval, and is faster than web-browsing on the GPT web page.
 
-You may consider this as a tiny implementation of the **new Bing** and **Bard**, primarily for search engines and Q&A.
+You may consider this as a tiny implementation of the `ChatGPT search` or `new Bing`, primarily for search engines and Q&A.
 
 Please give me a star if you like it! 🌟
 
