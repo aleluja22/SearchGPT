@@ -1,11 +1,11 @@
-集成实时网页浏览功能的 GPT-4
-========================
+SearchGPT: 集成实时网页浏览功能的GPT
+=================================
 
-Languages / 语言: [中文](https://github.com/Wilson-ZheLin/GPT-4-Web-Browsing/blob/main/README_CN.md) | [English](https://github.com/Wilson-ZheLin/GPT-4-Web-Browsing)
+Languages / 语言: [中文](https://github.com/Wilson-ZheLin/SearchGPT/blob/main/README_CN.md) | [English](https://github.com/Wilson-ZheLin/SearchGPT)
 
-GPT-4的知识库涉及领域丰富、涵盖范围广泛，但是一直有一定的实效滞后，例如最新的GPT-4知识更新截止于2023年4月。为了解决这个限制，我们将实时的网络浏览集成到了 GPT-4 中，将具有时效性的信息结合大语言模型先进的语言处理能力，并且速度要快于网页端 GPT-4 自带的网络浏览。🔗
+GPT的知识库涉及领域丰富、涵盖范围广泛，但是一直有一定的实效滞后，例如最新的GPT-4知识更新截止于2023年4月。为了解决这个限制，我们将实时的网络浏览集成到了 GPT-4 中，将具有时效性的信息结合大语言模型先进的语言处理能力，并且速度要快于网页端 GPT-4 自带的网络浏览。🔗
 
-您可以将这个项目看作 `new Bing` 和 `Bard` 的一个小型实现，结合了Q&A和搜索引擎的能力。🌟
+您可以将这个项目看作 `ChatGPT search` 和 `new Bing` 的一个小型实现，结合了Q&A和搜索引擎的能力。🌟
 
 功能
 ---
